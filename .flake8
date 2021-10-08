@@ -1,5 +1,5 @@
 [flake8]
-max-line-length = 88
+max-line-length = 100
 max-complexity = 12
 ignore=E501 config/settings.py
 exclude =
